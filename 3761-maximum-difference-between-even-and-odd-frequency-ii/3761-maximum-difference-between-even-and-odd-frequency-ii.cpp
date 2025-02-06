@@ -1,35 +1,54 @@
 class Solution {
 public:
-    const int inf = 1e9;
-    int f[30005], g[30005], a[30005], h[30005];
-    int q[5][30005];
+    const int inf =1e9;
+    int pre[5][30001];
+    int pari[30001];
+    int parj[30001];
+    int cntd[30001];
     int maxDifference(string s, int k) {
-        int n = s.size();
-        for(int i = 1; i <= n; ++i) a[i] = s[i - 1] - '0';
-        for(int i = 1; i <= n; ++i){
-            for(int j = 0; j <= 4; ++j){
-                q[j][i] = q[j][i - 1];
-            }
-            q[a[i]][i]++;
+        int n=s.size();
+        vector<int>a(n+1,0);
+
+        //Prefix Sum
+        for(int i=1;i<=n;i++){
+            a[i]=s[i-1]-'0';
         }
-        int ans = -inf;
-        for(int i = 0; i <= 4; ++i)
-            for(int j = 0; j <= 4; ++j){
-                if(i == j) continue;
-                int mi[4] = {inf, inf, inf, inf}, it = 0;
-                for(int l = 1; l <= n; ++l){
-                    while(l - it >= k && q[i][l] > q[i][it] && q[j][l] > q[j][it]){
-                        mi[f[it] * 2 + g[it]] = std::min(mi[f[it] * 2 + g[it]], h[it]);
-                        ++it;
+        for(int i=1;i<=n;i++){
+            for(int j=0;j<=4;j++){
+                pre[j][i]=pre[j][i-1];
+            }
+            pre[a[i]][i]++;
+        }
+
+        int ans= - inf;
+
+        //Digit Pairs
+        for(int i=0;i<=4;i++){
+            for(int j=0;j<=4;j++){
+
+                if(i==j) continue;
+
+                int cnt[4]= {inf,inf,inf,inf}; //cnt of digits in subs
+                int it=0; //For Sliding Window
+                for(int ind=1; ind<=n; ind++){//index
+                    while(ind-it>=k && pre[i][ind]>pre[i][it] && pre[j][ind]>pre[j][it]){
+                        cnt[pari[it]*2 + parj[it]] = min(cnt[pari[it]*2 + parj[it]],cntd[it]);
+                        it++;
                     }
-                    if(a[l] == i) f[l] = f[l - 1] ^ 1;
-                    else f[l] = f[l - 1];
-                    if(a[l] == j) g[l] = g[l - 1] ^ 1;
-                    else g[l] = g[l - 1];
-                    h[l] = h[l - 1] + (a[l] == i) - (a[l] == j);
-                    ans = std::max(ans, h[l] - mi[(1 - f[l]) * 2 + g[l]]);
+                    //If the count of ith digit is even or odd
+                    if(a[ind]==i) pari[ind]=pari[ind-1] ^ 1;
+                    else pari[ind] = pari[ind-1];
+
+                    //If the cnt of jth digit is even or odd
+                    if(a[ind]==j) parj[ind]=parj[ind-1] ^ 1;
+                    else parj[ind] = parj[ind-1];
+
+                    cntd[ind] = cntd[ind-1] + (a[ind] == i )-(a[ind]==j);
+                    ans = max(ans, cntd[ind] - cnt[(1-pari[ind])*2 + parj[ind]]);
                 }
             }
-        return ans;
+        }
+            return ans;
+
     }
 };
