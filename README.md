@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
@@ -49,11 +50,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Counting
 |  |
 | ------- |
+| [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 <!---LeetCode Topics End-->
