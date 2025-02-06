@@ -28,7 +28,9 @@ public:
 
                 if(i==j) continue;
 
-                int cnt[4]= {inf,inf,inf,inf}; //cnt of digits in subs
+                int cnt[4]= {inf,inf,inf,inf}; //cases parity
+                // cnt of digits in subs
+                
                 int it=0; //For Sliding Window
                 for(int ind=1; ind<=n; ind++){//index
                     while(ind-it>=k && pre[i][ind]>pre[i][it] && pre[j][ind]>pre[j][it]){
