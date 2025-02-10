@@ -1,4 +1,3 @@
-
 class Solution {
 public:
     int  rec(int lvl, int prev, vector<int>&arr, vector<vector<int>>& dp){
@@ -21,12 +20,11 @@ public:
 
         // Store the result in dp and return the max of taking or not taking the element
         return dp[lvl][prev+1] = max(take, notTake);
-    }
-    int lengthOfLIS(vector<int>& n) {
-        if(n.size()==1)return 1;  
-        int sz=n.size();
-        vector<vector<int>>dp(sz+6,vector<int>(sz+6,-1));
-
-        return rec(0,-1,n,dp);
+    }  
+    int lengthOfLIS(vector<int>& nums) {
+        int n=nums.size();
+        vector<vector<int>>dp(n+2,vector<int>(n+2,-1));
+        return rec(0,-1,nums,dp);
+        
     }
 };
