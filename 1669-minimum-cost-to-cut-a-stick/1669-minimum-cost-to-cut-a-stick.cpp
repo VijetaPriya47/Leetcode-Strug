@@ -1,5 +1,6 @@
 class Solution {
 public:
+//This is straight Recursion with Memoized to recuce time-complexity
     int dp[101][101];
     int solve(int start_stick, int end_stick, vector<int>& cuts, int left, int right){
         if(left > right) return 0;
