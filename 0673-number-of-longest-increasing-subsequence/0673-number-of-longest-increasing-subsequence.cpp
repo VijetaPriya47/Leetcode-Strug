@@ -3,7 +3,8 @@ public:
     int findNumberOfLIS(std::vector<int>& nums) {
         int n = nums.size();
         // This is storing the length and count of LIS at every element
-        // O(n2)
+        // O(n2) and Sc: O(n2)
+        // When we do memoization, our TC does not decreases but our SC decrease to linear-time complexity  O(n)
         vector<int> length(n, 1);
         vector<int> count(n, 1);
 
