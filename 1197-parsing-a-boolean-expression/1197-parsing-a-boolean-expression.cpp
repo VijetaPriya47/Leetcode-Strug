@@ -1,35 +1,39 @@
 class Solution {
 public:
-    bool parseBoolExpr(string expression) {
-        stack<char> st;
+    bool parseBoolExpr(string exp) {
 
-        for (char currChar : expression) {
-            if (currChar == ',' || currChar == '(')
-                continue;  
-            if (currChar == 't' || currChar == 'f' || currChar == '!' ||
-                currChar == '&' || currChar == '|') {
-                st.push(currChar);
+        int N=exp.size();
+        stack<char>st;
+        for(int i=0;i<N;i++){
+            if(exp[i]==',' || exp[i]=='('){
+                continue;
             }
-            else if (currChar == ')') {
-                bool hasTrue = false, hasFalse = false;
-
-                while (st.top() != '!' && st.top() != '&' && st.top() != '|') {
-                    char topValue = st.top();
+            if(exp[i]==')'){
+                    bool hastrue=false;
+                    bool hasfalse=false;
+                while(st.top()=='f' || st.top()=='t'){
+                    char s=st.top();
                     st.pop();
-                    if (topValue == 't') hasTrue = true;
-                    if (topValue == 'f') hasFalse = true;
+                    if(s=='f')hasfalse=true;
+                    else if(s=='t')hastrue=true;
                 }
+
                 char op = st.top();
                 st.pop();
                 if (op == '!') {
-                    st.push(hasTrue ? 'f' : 't');
+                    st.push(hastrue ? 'f' : 't');
                 } else if (op == '&') {
-                    st.push(hasFalse ? 'f' : 't');
+                    st.push(hasfalse ? 'f' : 't');
                 } else {
-                    st.push(hasTrue ? 't' : 'f');
+                    st.push(hastrue ? 't' : 'f');
                 }
             }
+            else{
+                st.push(exp[i]);
+            }
+
         }
-        return st.top() == 't';
+
+        return st.top()=='t';
     }
 };
