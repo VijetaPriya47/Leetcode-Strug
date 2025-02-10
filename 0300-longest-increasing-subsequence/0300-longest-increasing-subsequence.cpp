@@ -1,32 +1,21 @@
 class Solution {
 public:
-// Always know the importance of &
-// because the stack space is too much increasing
-// and it will give you a memory limit exceeded
-    int rec( int ind,int last,vector<int> &nums,vector<vector<int>> &dp){
-        if(ind==nums.size()){
-            return 0;
-        }
-
+    int lengthOfLIS(vector<int>& arr) {
+        int n=arr.size();
+             vector<int>dp(n+1,1);
         
-        if( dp[ind][last+1]!=-1){
-            return dp[ind][last+1];
+        for(int i=0;i<=n-1;i++){
+            for(int prev_index=0;prev_index<=i-1;prev_index++){
+                if(arr[prev_index]<arr[i]){
+                    dp[i]=max(dp[i],1+dp[prev_index]);
+                }
+            }
         }
-
-        //Take
-        int take=0;
-        if(last==-1 || nums[ind]>nums[last])
-            take=1+rec(ind+1,ind,nums,dp);
-
-        //Nottake
-        int nttake=rec(ind+1,last,nums,dp);
-
-        return dp[ind][last+1]=max(take,nttake);
-    }
-    int lengthOfLIS(vector<int>& nums) {
-        int n=nums.size();
-        vector<vector<int>>dp(n+2,vector<int>(n+2,-1));
-        return rec(0,-1,nums,dp);
-        
+        int ans=-1;
+        // int mx=0;
+        for(int i=0;i<n;i++){
+             ans=max(ans,dp[i]);
+        }
+        return ans; 
     }
 };
