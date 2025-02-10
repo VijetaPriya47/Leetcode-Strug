@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0312-burst-balloons) |
+| [1121-partition-array-for-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0132-palindrome-partitioning-ii) |
 | [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0312-burst-balloons) |
+| [1121-partition-array-for-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1121-partition-array-for-maximum-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
