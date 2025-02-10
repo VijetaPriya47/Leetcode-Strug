@@ -1,23 +1,34 @@
 class Solution {
 public:
-    int maximalSquare(vector<vector<char>>& matrix) {
-        if (matrix.empty()) {
-            return 0;
-        }
-        int m = matrix.size(), n = matrix[0].size(), sz = 0, pre;
-        vector<int> cur(n, 0);
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                int temp = cur[j];
-                if (!i || !j || matrix[i][j] == '0') {
-                    cur[j] = matrix[i][j] - '0';
-                } else {
-                    cur[j] = min(pre, min(cur[j], cur[j - 1])) + 1;
+    int maximalSquare(vector<vector<char>>& mat) {
+
+        int n=mat.size();
+        int m=mat[0].size();
+
+        vector<int>heights(m+1,0);
+
+        int mxarea=0;
+
+        for(int i=0;i<n;i++){ 
+            for(int j=0;j<m;j++){
+                heights[j]=(mat[i][j]=='1')? heights[j]+1:0;
+            }
+
+            stack<int>st;
+            for(int j=0;j<m+1;j++){
+                
+                while(!st.empty() && heights[j]<heights[st.top()]){
+                    int h=heights[st.top()];
+                    st.pop();
+                    int w=st.empty() ? j:j-st.top()-1;
+                    // if(h==w)
+                    int mn=min(h,w);
+                    mxarea=max(mxarea,mn*mn);
                 }
-                sz = max(cur[j], sz);
-                pre = temp;
+                st.push(j);
+                
             }
         }
-        return sz * sz;
+        return mxarea;
     }
 };
