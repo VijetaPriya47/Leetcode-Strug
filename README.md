@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0018-4sum) |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0312-burst-balloons) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0018-4sum) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Binary Indexed Tree
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
