@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0312-burst-balloons) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0132-palindrome-partitioning-ii) |
+| [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0312-burst-balloons) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
+| [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
