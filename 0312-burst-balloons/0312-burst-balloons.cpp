@@ -17,6 +17,10 @@ public:
             
             vector<vector<int>> dp(n + 2, vector<int>(n + 2, 0));
 
+// It's basically doing the same thing just using this i andd j to get 
+// the smallest index it can have to start the option 
+// This is Bottom-UPs approach (interval DP)
+// Consider each balloon as the last one to burst in a rang
             for (int i = n; i >= 1; i--) {
                 for (int j = 1; j <= n; j++) {
                     if (i > j) continue;
