@@ -1,23 +1,28 @@
 class Solution {
 public:
-//Dynamic Programming
-    int longestStrChain(std::vector<std::string>& words) {
-        std::sort(words.begin(), words.end(), [](const std::string& a, const std::string& b) {
-            return a.size() < b.size();
+    int longestStrChain(vector<string>& words) {
+        std::unordered_map<std::string, int> chains;  // Stores the max chain length for each word
+        std::vector<std::string> sortedWords = words;
+        std::sort(sortedWords.begin(), sortedWords.end(), [](const std::string& a, const std::string& b) {
+            return a.length() < b.length();  // Sort words by length
         });
-        
-        std::unordered_map<std::string, int> dp;
-        int max_chain = 0;
-        for (const auto& word : words) {
-            dp[word] = 1;
-            for (int i = 0; i < word.size(); ++i) {
-                std::string prev_word = word.substr(0, i) + word.substr(i + 1);
-                if (dp.find(prev_word) != dp.end()) {
-                    dp[word] = std::max(dp[word], dp[prev_word] + 1);
+
+        for (const std::string& word : sortedWords) {
+            chains[word] = 1;  // Initialize the chain length for the current word
+
+            for (int i = 0; i < word.length(); i++) {
+                std::string pred = word.substr(0, i) + word.substr(i + 1);  // Generate predecessor by removing one character
+                if (chains.find(pred) != chains.end()) {
+                    chains[word] = std::max(chains[word], chains[pred] + 1);
                 }
             }
-            max_chain = std::max(max_chain, dp[word]);
         }
-        return max_chain;
+
+        int maxChainLength = 0;
+        for (const auto& entry : chains) {
+            maxChainLength = std::max(maxChainLength, entry.second);
+        }
+
+        return maxChainLength;        
     }
 };
