@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0132-palindrome-partitioning-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0132-palindrome-partitioning-ii) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1197-parsing-a-boolean-expression) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
