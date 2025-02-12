@@ -1,6 +1,11 @@
 class Solution {
 public:
     bool isMatch(string text, string pattern) {
+        //Recursion
+        //Memoization
+        //Tabulation
+        //Space Optimizaton
+        // I'm having problems in tabulation and Space Optimization
         int n1 = text.size();
         int n2 = pattern.size();
         vector<bool> prev(n2 + 1, false), curr(n2 + 1, false);
