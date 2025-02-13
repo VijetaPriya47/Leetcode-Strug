@@ -1,5 +1,6 @@
 class Solution {
 public:
+//Space Optimization is left
     int numDistinct(string s, string t) {
         int prime=1e9+7;
         int n=s.size();
