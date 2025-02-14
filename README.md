@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0115-distinct-subsequences) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0018-4sum) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 ## Binary Search
