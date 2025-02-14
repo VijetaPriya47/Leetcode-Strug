@@ -187,4 +187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Depth-First Search
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1300-critical-connections-in-a-network) |
+## Graph
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1300-critical-connections-in-a-network) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
