@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0132-palindrome-partitioning-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0583-delete-operation-for-two-strings) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1197-parsing-a-boolean-expression) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0312-burst-balloons) |
 | [0368-largest-divisible-subset](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0368-largest-divisible-subset) |
+| [0583-delete-operation-for-two-strings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1121-partition-array-for-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1121-partition-array-for-maximum-sum) |
