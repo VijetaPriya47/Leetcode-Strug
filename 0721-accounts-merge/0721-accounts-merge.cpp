@@ -1,6 +1,7 @@
 class Solution {
 public:
-//DFS
+// DFS
+// Try to do it by Union
     unordered_map<string,vector<string>> graph;
     unordered_map<string,int>vis;
     void dfs(string s,vector<string> &v){
