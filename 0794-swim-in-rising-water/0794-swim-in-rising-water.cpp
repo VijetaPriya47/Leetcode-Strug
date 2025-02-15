@@ -4,7 +4,7 @@ public:
         int n=grid.size();
         int m=grid[0].size();
 
-        priority_queue<int,pair<int,int>>pq;
+        priority_queue<pair<int,pair<int,int>>>pq;
         pq.push({-grid[0][0],{0,0}});
         int xx[4]={+1,0,-1,0};
         int yy[4]={0,+1,0,-1};
@@ -14,7 +14,7 @@ public:
         while(!pq.empty()){
             int x=pq.top().second.first;
             int y=pq.top().second.second;
-            int dis=-pq.first;
+            int dis=-pq.top().first;
 
             pq.pop();
 
@@ -26,7 +26,7 @@ public:
                     int newdis=max(grid[nwi][nwj],dis);
                     if(dist[nwi][nwj]>newdis){
                         dist[nwi][nwj] = newdis;
-                        pq.push({-newdis,{newi,newj}});
+                        pq.push({-newdis,{nwi,nwj}});
                     }
                 }
             }
