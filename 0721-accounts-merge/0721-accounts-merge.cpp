@@ -1,5 +1,6 @@
 class Solution {
 public:
+//DFS
     unordered_map<string,vector<string>> graph;
     unordered_map<string,int>vis;
     void dfs(string s,vector<string> &v){
