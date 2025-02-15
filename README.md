@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [1121-partition-array-for-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -178,11 +180,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0322-coin-change) |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 ## Ordered Set
 |  |
 | ------- |
@@ -190,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [1300-critical-connections-in-a-network](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1300-critical-connections-in-a-network) |
 ## Graph
 |  |
@@ -199,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1300-critical-connections-in-a-network) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
