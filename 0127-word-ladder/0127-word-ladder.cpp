@@ -1,5 +1,10 @@
 class Solution {
 public:
+//THis could be done by vector since all the elements are unique in the wordlist,
+//BUt Because find, erase these type of things becomes a little complicated in vector,
+// hence set is used
+//Set has easy to erase element method because set has all unique elements,
+// but since vector is built for duplicate elements also, we have to earse elements by it's index position, bcs tht's wht is unique in a vector.
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         unordered_set<string> st;
         for(string& word: wordList) {
