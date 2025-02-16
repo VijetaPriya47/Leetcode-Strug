@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0583-delete-operation-for-two-strings) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0127-word-ladder) |
 | [0322-coin-change](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0322-coin-change) |
 | [0721-accounts-merge](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
