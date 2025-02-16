@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0854-making-a-large-island) |
 | [1121-partition-array-for-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0221-maximal-square) |
 | [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0854-making-a-large-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0854-making-a-large-island) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1442-number-of-operations-to-make-network-connected) |
 ## Ordered Set
 |  |
