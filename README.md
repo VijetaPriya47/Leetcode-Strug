@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0018-4sum) |
+| [0045-jump-game-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0115-distinct-subsequences) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
