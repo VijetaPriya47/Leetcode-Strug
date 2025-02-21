@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+| [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Counting
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Stack
 |  |
 | ------- |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Binary Indexed Tree
 |  |
 | ------- |
