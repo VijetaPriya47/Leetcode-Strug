@@ -36,7 +36,7 @@ public:
 
         //So, it's a trade between Double Binary Search (ONe for int, one for decimal)
         //Or use toleration Values
-        //For that use iiterations.
+        //For that use iterations.
         for(int i=0;i<60;i++){
             double mid= (lo+hi)/2.0;
             double diff = helper(mid,sq);
