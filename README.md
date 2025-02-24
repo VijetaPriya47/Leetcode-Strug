@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1753-path-with-minimum-effort) |
 | [2107-find-unique-binary-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2107-find-unique-binary-string) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1171-shortest-path-in-binary-matrix](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1753-path-with-minimum-effort) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1753-path-with-minimum-effort) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Graph
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-number-of-operations-to-make-network-connected](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -292,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Tree
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
