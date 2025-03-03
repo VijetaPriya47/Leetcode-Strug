@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1753-path-with-minimum-effort) |
 | [2107-find-unique-binary-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2107-find-unique-binary-string) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0018-4sum) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Binary Search
 |  |
 | ------- |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
+## Simulation
+|  |
+| ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2265-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
