@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0368-largest-divisible-subset) |
+| [2649-count-total-number-of-colored-cells](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2649-count-total-number-of-colored-cells) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
