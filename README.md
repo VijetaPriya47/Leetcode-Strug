@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
