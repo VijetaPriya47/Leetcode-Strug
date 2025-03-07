@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+| [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
+| [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
