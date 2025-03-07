@@ -17,9 +17,9 @@ public:
         for(int j=1;j<=k;j++){
             ll mini=min;
             for(int i=j*m;i<=n;i++){
-                if(i-m>=0){
+                // if(i-m>=0){
                     mini=max(mini,dp[i-m][j-1]-pre[i-m]);
-                }
+                // }
                 dp[i][j]=max(dp[i-1][j],pre[i]+mini);
             }
         }
