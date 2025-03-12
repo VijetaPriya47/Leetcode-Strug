@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3763-separate-squares-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
 ## Breadth-First Search
