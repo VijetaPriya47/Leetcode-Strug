@@ -40,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3763-separate-squares-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3763-separate-squares-i) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3791-fruits-into-baskets-iii) |
 ## Math
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3791-fruits-into-baskets-iii) |
 ## Two Pointers
