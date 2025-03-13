@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3763-separate-squares-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3763-separate-squares-i) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3778-transform-array-by-parity](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3778-transform-array-by-parity) |
 | [3785-find-the-number-of-copy-arrays](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3722-sum-of-k-subarrays-with-length-at-least-m](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3722-sum-of-k-subarrays-with-length-at-least-m) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3776-find-minimum-cost-to-remove-array-elements](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3776-find-minimum-cost-to-remove-array-elements) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Bit Manipulation
 |  |
