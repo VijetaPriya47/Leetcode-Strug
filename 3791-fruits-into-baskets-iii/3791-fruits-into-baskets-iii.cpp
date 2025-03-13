@@ -49,40 +49,37 @@ public:
         seg[ind]=max(seg[2*ind+1],seg[2*ind+2]);
     }
 };
-    ll res;
-    void find(ll val,SGT &st, ll n){
-        ll low = 0;
-        ll high = n-1;
-        ll ans=-1;
 
-        while(low<=high){
-            ll mid = (low+high)/2;
-            ll mx = st.query(0,0,n-1,0,mid);
-
-            if(mx>=val){
-                ans=mid;
-                high=mid-1;
-            }
-
-            else
-                low=mid+1;
-        }
-        if(ans!=-1){
-            st.update(0,0,n-1,ans,0);
-        }
-        else
-            ++res;
-        return;
-    }
 
 class Solution {
 public:
+    ll res=0;
+    void find(ll val, SGT & st, ll n){
+        ll left=0;
+        ll right=n-1;
+        ll ans=-1;
+        while (left<=right){
+            ll mid=(left+right)/2;
+            ll mx=st.query(0,0,n-1,0,mid);
+            
+            if(mx>=val){
+                ans=mid;
+                right=mid-1;
+            }
+            else left = mid+1; 
+        }
+
+        if(ans!=-1){
+            st.update(0,0,n-1,ans,0);
+        }
+        else ++res;
+        return;
+    }
     int numOfUnplacedFruits(vector<int>& f, vector<int>& b) {
-        
         res=0;
         int n=f.size();
-        vector<ll>tb(b.begin(),b.end());
-
+        vector<long long>tb(b.begin(),b.end());
+        
         SGT st(n);
         st.build(0,0,n-1,tb);
 
