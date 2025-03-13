@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3763-separate-squares-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3763-separate-squares-i) |
+| [3778-transform-array-by-parity](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3778-transform-array-by-parity) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3791-fruits-into-baskets-iii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3778-transform-array-by-parity](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3778-transform-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
+| [3778-transform-array-by-parity](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3778-transform-array-by-parity) |
 ## Binary Indexed Tree
 |  |
 | ------- |
