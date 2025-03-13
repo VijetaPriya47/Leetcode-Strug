@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 | [3786-longest-palindromic-subsequence-after-at-most-k-operations](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3786-longest-palindromic-subsequence-after-at-most-k-operations) |
 ## Sliding Window
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3770-lexicographically-smallest-generated-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3770-lexicographically-smallest-generated-string) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Stack
 |  |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
+## String Matching
+|  |
+| ------- |
+| [3770-lexicographically-smallest-generated-string](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3770-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
