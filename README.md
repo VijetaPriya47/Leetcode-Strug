@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3763-separate-squares-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3763-separate-squares-i) |
 | [3778-transform-array-by-parity](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3778-transform-array-by-parity) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3785-find-the-number-of-copy-arrays) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3791-fruits-into-baskets-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/2649-count-total-number-of-colored-cells) |
 | [3697-minimum-increments-for-target-multiples-in-an-array](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3697-minimum-increments-for-target-multiples-in-an-array) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3785-find-the-number-of-copy-arrays](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3785-find-the-number-of-copy-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
