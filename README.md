@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3763-separate-squares-i](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3763-separate-squares-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 | [3771-select-k-disjoint-special-substrings](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3771-select-k-disjoint-special-substrings) |
 ## Binary Indexed Tree
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/1753-path-with-minimum-effort) |
+| [3759-choose-k-elements-with-maximum-sum](https://github.com/VijetaPriya47/Leetcode-Strug/tree/master/3759-choose-k-elements-with-maximum-sum) |
 ## Backtracking
 |  |
 | ------- |
